@@ -10,3 +10,6 @@
 [submodule "eecs489-a2-videostreaming-via-cdn"]
 	path = eecs489-a2-videostreaming-via-cdn
 	url = git@github.com:hollinsStuart/eecs489-a2-videostreaming-via-cdn.git
+[submodule "a3-reliable-transport"]
+	path = a3-reliable-transport
+	url = git@github.com:Pyh2002/a3-reliable-transport.git
