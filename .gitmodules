@@ -7,3 +7,6 @@
 [submodule "a3-reliable-transport"]
 	path = a3-reliable-transport
 	url = git@github.com:Pyh2002/a3-reliable-transport.git
+[submodule "a4-static-router"]
+	path = a4-static-router
+	url = git@github.com:Pyh2002/a4-static-router.git
